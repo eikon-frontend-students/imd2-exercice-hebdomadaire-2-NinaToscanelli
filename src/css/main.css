@@ -46,6 +46,12 @@ h1 {
 .tools {
   display: flex;
   align-items: flex-start;
+  width: 64px;
+  height: 64px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 32px;
+  background: #fff;
 }
 
 p {
